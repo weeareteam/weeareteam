@@ -3,8 +3,14 @@
 **We are OSS-lecture QA class, second team!**
 <br>
 
-> Team member
+> 😎 **Team member**
 
-- 20221660 양희민 
+- 🙍‍♂️ 20221660 양희민 : https://github.com/yang9098
 
-- 20222592 권민정
+- 🙍‍ 20222592 권민정 : https://github.com/nyryngji
+
+- 🙍‍♂️ 20222596 김호민 : https://github.com/amlslt
+
+- 🙍‍♂️ 20223782 이선우 : https://github.com/doai8912
+
+- 🙍‍♂️ 20223780 박정호 : https://github.com/jungho1123
