@@ -14,3 +14,7 @@
 - 🙍‍♂️ 20223782 이선우 : https://github.com/doai8912
 
 - 🙍‍♂️ 20223780 박정호 : https://github.com/jungho1123
+<br>
+
+> ✏ We are studying 
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Python&logoColor=white">
