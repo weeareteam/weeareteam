@@ -1,4 +1,5 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/114068529/194224643-ff8b3cca-d34e-4d99-b388-6fa9de302e0d.gif)
+![image](https://user-images.githubusercontent.com/114068529/196416974-85f53ff2-f9e2-4514-9e73-4a5dfd49d746.png)
+
 
 **We are OSS-lecture QA class, second team!**
 <br>
