@@ -17,5 +17,10 @@
 - 🙍‍♂️ 20223780 박정호 : https://github.com/jungho1123
 <br>
 
-> ✏ We are studying 
-<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Python&logoColor=white">
+> ✏ **We are studying** 
+<img src="https://img.shields.io/badge/Github-000080?style=for-the-badge&logo=Python&logoColor=white">
+<br>
+
+> **github stat**
+
+![weeareteam's GitHub stats](https://github-readme-stats.vercel.app/api?username=weeareteam&show_icons=true&theme=nord&hide)
